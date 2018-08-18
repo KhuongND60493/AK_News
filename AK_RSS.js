@@ -2,7 +2,8 @@
     "categories": [
         { "id": 1, "name": "Tin hot" },
         { "id": 2, "name": "Thời sự" },
-        { "id": 3, "name": "Thế giới" }],
+        { "id": 3, "name": "Thế giới" },
+    {"id":4,"name":"Kinh doanh"}],
         "rss": [
             {
                 "id": 1,
@@ -12,7 +13,8 @@
                 "childs": [
                     { "id": 1, "url": "https://vnexpress.net/rss/tin-moi-nhat.rss" },
                     { "id": 2, "url": "https://vnexpress.net/rss/thoi-su.rss" },
-                      { "id": 3, "url": "https://vnexpress.net/rss/the-gioi.rss" }
+                      { "id": 3, "url": "https://vnexpress.net/rss/the-gioi.rss" },
+                    {"id":4, "url":"https://vnexpress.net/rss/kinh-doanh.rss"}
                 ]
             },
             {
