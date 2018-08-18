@@ -1,7 +1,8 @@
 {
     "categories": [
         { "id": 1, "name": "Tin hot" },
-        { "id": 2, "name": "Thời sự" }],
+        { "id": 2, "name": "Thời sự" },
+        { "id": 3, "name": "Thế giới" }],
         "rss": [
             {
                 "id": 1,
