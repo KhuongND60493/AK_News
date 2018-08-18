@@ -3,7 +3,22 @@
         { "id": 1, "name": "Tin hot" },
         { "id": 2, "name": "Thời sự" },
         { "id": 3, "name": "Thế giới" },
-    {"id":4,"name":"Kinh doanh"}],
+        {"id":4,"name":"Kinh doanh"},
+        {"id":5,"name":"Start up"},
+        {"id":6,"name":"Giải trí"},
+        {"id":7,"name":"Thể thao"},
+        {"id":8,"name":"Pháp luật"},
+        {"id":9,"name":"Giáo dục"},
+        {"id":10,"name":"Sức khoẻ"},
+        {"id":11,"name":"Gia đình"},
+        {"id":12,"name":"Giáo dục"},
+        {"id":13,"name":"Khoa học"},
+        {"id":14,"name":"Số hoá"},
+        {"id":15,"name":"Xe"},
+        {"id":16,"name":"Cộng đồng"},
+        {"id":17,"name":"Tâm sự"},
+        {"id":18,"name":"Cười"}
+    ],
         "rss": [
             {
                 "id": 1,
