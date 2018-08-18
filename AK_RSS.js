@@ -36,7 +36,7 @@
             {
                 "id": 4,
                 "website": "VIETNAMNET",
-                "logo": "https://upload.wikimedia.org/wikipedia/vi/2/22/Vietnamnet-logo.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/vi/2/22/Vietnamnet-Logo.png",
                 "url": "http://vietnamnet.vn/",
                 "childs": [
                     { "id": 1, "url": "http://vietnamnet.vn/rss/home.rss" },
