@@ -1,5 +1,4 @@
-module.exports = {
-    list: [
+list: [
         {
             id: 1,
             website: "VNExpress",
@@ -128,4 +127,3 @@ module.exports = {
         },
 
     ]
-}
