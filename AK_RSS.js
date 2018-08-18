@@ -39,8 +39,9 @@
                 "url": "https://news.zing.vn/",
                 "childs": [
                     { "id": 1, "url": "https://news.zing.vn/rss/tin-moi.rss" },
-                    { "id": 2, "url": "https://news.zing.vn/rss/thoi-su.rss" }
-                ]
+                    { "id": 2, "url": "https://news.zing.vn/rss/thoi-su.rss" },
+                    
+                {"id": 3, "url": "https://news.zing.vn/rss/the-gioi.rss" }
             },
             {
                 "id": 3,
