@@ -11,7 +11,8 @@
                 "url": "https://vnexpress.net/",
                 "childs": [
                     { "id": 1, "url": "https://vnexpress.net/rss/tin-moi-nhat.rss" },
-                    { "id": 2, "url": "https://vnexpress.net/rss/thoi-su.rss" }
+                    { "id": 2, "url": "https://vnexpress.net/rss/thoi-su.rss" },
+                      { "id": 3, "url": "https://vnexpress.net/rss/the-gioi.rss" }
                 ]
             },
             {
