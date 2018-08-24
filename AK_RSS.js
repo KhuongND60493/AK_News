@@ -15,7 +15,7 @@
         {"id":13,"name":"Khoa học","image":"https://thumbs.dreamstime.com/b/seamless-coconut-tree-leaves-pattern-palm-leaves-vector-illustration-botanical-background-83357139.jpg"},
         {"id":14,"name":"Số hoá","image":"https://thumbs.dreamstime.com/b/seamless-coconut-tree-leaves-pattern-palm-leaves-vector-illustration-botanical-background-83357139.jpg"},
         {"id":15,"name":"Xe","image":"https://thumbs.dreamstime.com/b/seamless-coconut-tree-leaves-pattern-palm-leaves-vector-illustration-botanical-background-83357139.jpg"},
-        {"id":16,"name":"Cộng đồng""image":"https://thumbs.dreamstime.com/b/seamless-coconut-tree-leaves-pattern-palm-leaves-vector-illustration-botanical-background-83357139.jpg"},
+        {"id":16,"name":"Cộng đồng","image":"https://thumbs.dreamstime.com/b/seamless-coconut-tree-leaves-pattern-palm-leaves-vector-illustration-botanical-background-83357139.jpg"},
         {"id":17,"name":"Tâm sự","image":"https://thumbs.dreamstime.com/b/seamless-coconut-tree-leaves-pattern-palm-leaves-vector-illustration-botanical-background-83357139.jpg"},
         {"id":18,"name":"Cười","image":"https://thumbs.dreamstime.com/b/seamless-coconut-tree-leaves-pattern-palm-leaves-vector-illustration-botanical-background-83357139.jpg"}
     ],
