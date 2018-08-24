@@ -9,7 +9,7 @@
         {"id":7,"name":"Thể thao","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
         {"id":8,"name":"Pháp luật","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
         {"id":9,"name":"Giáo dục","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
-        {"id":10,"name":"Sức khoẻ","https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
+        {"id":10,"name":"Sức khoẻ","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
         {"id":11,"name":"Gia đình","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
         {"id":12,"name":"Giáo dục","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
         {"id":13,"name":"Khoa học","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
