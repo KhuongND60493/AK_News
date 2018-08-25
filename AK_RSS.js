@@ -80,7 +80,7 @@
                 "logo": "http://image1.ictnews.vn/a/Assets/img/logo.png",
                 "url": "http://ictnews.vn",
                 "childs": [
-                    { "id": 2, "url": "http://ictnews.vn/rss/thoi-su" }
+                    { "id": 1, "url": "http://ictnews.vn/rss/thoi-su" }
                 ]
             },
             {
