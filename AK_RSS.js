@@ -122,23 +122,6 @@
                     { "id": 1, "url": "https://tinhte.vn/rss/" }
 
                 ]
-            }, {
-                "id": 10,
-                "website": "Techrum",
-                "logo": "http://www.techrum.vn/chevereto/images/2017/03/24/C6MRr.png",
-                "url": "http://www.techrum.vn",
-                "childs": [
-                    { "id": 1, "url": "http://www.techrum.vn/forums/-/index.rss" }
-
-                ]
-            }, {
-                "id": 12,
-                "website": "Gamek",
-                "logo": "http://bvad.info/wp-content/uploads/2017/02/B%E1%BA%A3ng-gi%C3%A1-booking-qu%E1%BA%A3ng-c%C3%A1o-b%C3%A0i-Pr-banner-b%C3%A1o-gamek.png",
-                "url": "http://gamek.vn",
-                "childs": [
-                    { "id": 1, "url": "http://gamek.vn/home.rss" }
-                ]
             },
             {
                 "id": 13,
