@@ -1,4 +1,5 @@
 {
+    "id":"09122018",
     "categories": [
         { "id": 1, "name": "Tin hot" ,"image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg"},
         { "id": 2, "name": "Thời sự","image":"https://img.freepik.com/free-vector/shiny-green-background_1055-3127.jpg?size=338&ext=jpg" },
